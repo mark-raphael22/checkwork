@@ -1,0 +1,14 @@
+explain endpoint and the directory you have 
+(Uniform Resource Locators) or URIs (Uniform Resource Identifiers) that serve as entry points to a web service, API 
+
+
+Optional chaining is particularly useful when working with complex data structures and APIs, as it simplifies code by reducing the need for extensive null or undefined checks.
+
+
+ */ this serves as a notification to the user
+const createUserNotifJob = (userId, data) => {
+    notifQueue.add(`users:${userId}`, data)
+}
+
+
+BullMQ is a Node.js library that implements a fast and robust queue system built on top of Redis that helps in resolving many modern age micro-services architectures.
